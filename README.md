@@ -10,4 +10,9 @@ SM1
 Go to youtube cyberparlour:
 [Link Text](https://www.youtube.com/@cyberparlour/videos)
 
-Go to playlist
+Go to playlist and go to 'Answer inside' (make sure you click on 'View full playlist'):
+![Alt Text](Screenshot 2023-12-07 083444.png)
+
+Here's the flag for SM1
+![Alt Text](Screenshot 2023-12-07 083444.png)
+SM1 = bravetruth
