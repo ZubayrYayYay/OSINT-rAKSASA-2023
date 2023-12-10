@@ -47,7 +47,37 @@ It's on reddit!
 Just search it on google, search 'cyberparlour'
 
 ![image](https://github.com/ZubayrYayYay/OSINT-rAKSASA-2023/assets/125542852/f9b0d755-f89a-48d2-a83e-23c30b37583f)
+
 SM3=rightcode
 
 SM4
 
+SM5
+
+Find cyberparlour on Facebook and go to this post
+
+![WhatsApp Image 2023-12-10 at 15 41 08_4cc68bdd](https://github.com/ZubayrYayYay/OSINT-rAKSASA-2023/assets/125542852/147fecce-d3b6-4578-8f7a-02ea7df783b8)
+
+Go to comment section of this post
+
+![WhatsApp Image 2023-12-10 at 15 41 07_396a6552](https://github.com/ZubayrYayYay/OSINT-rAKSASA-2023/assets/125542852/a280dc3a-8c96-40cb-836a-b029be5ea332)
+
+SM5=victoryone
+
+SM6
+
+Go to this post on cyberparlour's Facebook
+
+![WhatsApp Image 2023-12-10 at 15 44 11_4f1e0727](https://github.com/ZubayrYayYay/OSINT-rAKSASA-2023/assets/125542852/5262d5f3-8aca-45dc-b9e3-0dbaa353b9a5)
+
+Go to reaction section of this post
+
+![WhatsApp Image 2023-12-10 at 15 44 11_887f0be3](https://github.com/ZubayrYayYay/OSINT-rAKSASA-2023/assets/125542852/f737bce0-a7bb-4f51-835c-48ca2b4b37ce)
+
+Go to Dennis Keynes's Facebook
+
+Go to to this post and there is the flag
+
+![WhatsApp Image 2023-12-10 at 15 44 12_f6f88f91](https://github.com/ZubayrYayYay/OSINT-rAKSASA-2023/assets/125542852/3ff18fbb-8887-4834-83cc-607144ed42bb)
+
+SM6=forestclear
