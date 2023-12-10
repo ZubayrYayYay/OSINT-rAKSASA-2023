@@ -56,13 +56,13 @@ Search cyberparlour on telegram
 
 Go to 'Cyber parlour chat'
 
+![WhatsApp Image 2023-12-10 at 16 12 32_6c7f5631](https://github.com/ZubayrYayYay/OSINT-rAKSASA-2023/assets/125542852/03eaab72-187a-4093-9a7d-7d08984d6387)
+
 And then go to profile of 'Cyber parlour chat' and there's the flag
 
 ![WhatsApp Image 2023-12-10 at 16 12 52_b484fc6c](https://github.com/ZubayrYayYay/OSINT-rAKSASA-2023/assets/125542852/46340491-a659-4292-b238-12333ab22f53)
 
-
-![WhatsApp Image 2023-12-10 at 16 12 32_6c7f5631](https://github.com/ZubayrYayYay/OSINT-rAKSASA-2023/assets/125542852/03eaab72-187a-4093-9a7d-7d08984d6387)
-
+SM4=lifehere
 
 SM5
 
